@@ -23,9 +23,31 @@ You can also download `index.html` and open it: the whole game is in that one fi
 - **A written soundtrack.** Ten pieces and every sound effect are synthesised in the browser.
 - **Four ships** to choose from, and a hardcore mode with one life.
 
+## Where the 300 kB go
+
+Roughly, in the file as it ships:
+
+| | |
+|---|---|
+| Drawing space: stars, planets, rings, the ship, the jump tunnel | 75 kB |
+| Menus, maps, the flight display and every line of text | 60 kB |
+| Planet surfaces: terrain, plants, animals, the cities of Earth | 50 kB |
+| Music and sound: ten written pieces, the star music, every effect | 45 kB |
+| The rules of the game and its story | 40 kB |
+| Holding it together: input, saving, the main loop | 17 kB |
+| Making the galaxy: stars, systems, planets and their names | 9 kB |
+
+Sent compressed, as web servers do, the whole game is about 113 kB.
+
 ## Controls
 
 The title screen lists every key. The short version: mouse to steer, `W` `S` to thrust and brake, `Shift` to boost, `C` cruise drive, `F` scan and dock, `M` galaxy map, `N` system map, `J` jump, `Q` your journey, `Esc` menu.
+
+## Free to play, all rights reserved
+
+Voidstruck is free to play, here in the browser or from a copy of `index.html` you download for yourself.
+
+© 2026 Vitamax. All rights reserved. The game, its code, its story and its music may not be copied to other sites, changed, republished or sold without written permission. See [LICENSE](LICENSE). To ask, write to the address below.
 
 ## Contact
 
