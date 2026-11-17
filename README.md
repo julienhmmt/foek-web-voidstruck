@@ -1,13 +1,36 @@
 # Voidstruck
 
-A space exploration game in a single HTML file: a whole procedural galaxy, flown, landed on and walked, in about 300 kB with no downloads and no installs.
+**A whole galaxy in one HTML file.** A space exploration game you fly, land on and walk, in about 300 kB: no downloads, no installs, no images or sound files. Everything you see and hear is made by code as you play.
 
-A test flight goes wrong and throws you 2,520 light years from home. The way back is one jump at a time, and every jump costs years on Earth.
+A test flight of a new jump drive goes wrong and throws you 2,520 light years from home. The way back is one jump at a time, and every jump costs years on Earth. Then messages start to arrive.
 
 ## Play
 
-Download `index.html` and open it in a recent desktop browser with WebGPU (Chrome or Edge). Everything is in that one file; your journey is saved in the browser.
+**[Play Voidstruck in your browser](https://vitaminclaude.github.io/voidstruck/)**
+
+Best in a current **Chrome** or **Edge** on a desktop computer, full screen (F11), with the sound on. It needs WebGPU, a mouse and a keyboard. Your journey is saved in the browser.
+
+You can also download `index.html` and open it: the whole game is in that one file, and it works offline.
+
+## What is in it
+
+- **A procedural galaxy.** Every star, planet, moon and name is worked out from a seed as you arrive. Yellow suns, red dwarfs, pulsars, white dwarfs and black holes, each with its own look and its own music.
+- **Space flight.** Steer with the mouse, refuel in the glow of a star without burning up, cruise between worlds, and jump from system to system on a galaxy map.
+- **Planets you can land on.** Fly down through the clouds of rocky, desert, ocean, ice, lava, toxic, crystal and living worlds, set the ship down, step out and walk. Plants, animals, weather, day and night.
+- **Something to do there.** Scan worlds, mine deposits, build bases that earn while you travel, and trade at stations for a longer jump, a bigger tank, a tougher hull and more hold. Some systems hold raiders: fight, or run.
+- **A story with three endings.** Messages from home catch up with you on the way, and three tasks (time shards kept by pulsars, black holes to measure, bases to leave behind) decide what you find when you land on Earth.
+- **Sol as it is.** The planets in their real colours, and Earth with her continents and city lights.
+- **A written soundtrack.** Ten pieces and every sound effect are synthesised in the browser.
+- **Four ships** to choose from, and a hardcore mode with one life.
+
+## Controls
+
+The title screen lists every key. The short version: mouse to steer, `W` `S` to thrust and brake, `Shift` to boost, `C` cruise drive, `F` scan and dock, `M` galaxy map, `N` system map, `J` jump, `Q` your journey, `Esc` menu.
 
 ## Contact
 
+Made with passion by Vitamax, powered by Claude.
+
 voidstruck.game@gmail.com
+
+If you enjoy it, you can [help fund multiplayer](https://ko-fi.com/vitamax).
