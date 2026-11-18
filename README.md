@@ -6,6 +6,8 @@ A test flight of a new jump drive goes wrong and throws you some 2,500 light yea
 
 ![Close to a black hole](screenshots/black-hole.jpg)
 
+https://github.com/user-attachments/assets/af506332-e2ef-4373-8d2d-085b77eb8bd4
+
 ## Play
 
 **[Play Voidstruck in your browser](https://vitaminclaude.github.io/voidstruck/)**
