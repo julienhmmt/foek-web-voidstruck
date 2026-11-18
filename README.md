@@ -1,6 +1,6 @@
 # Voidstruck
 
-**A whole galaxy in one HTML file.** A space exploration game you fly, land on and walk, in 297 kB: no downloads, no installs, no images or sound files. Everything you see and hear is made by code as you play.
+**A whole galaxy in one HTML file.** A space exploration game you fly, land on and walk, in 298 kB: no downloads, no installs, no images or sound files. Everything you see and hear is made by code as you play.
 
 A test flight of a new jump drive goes wrong and throws you some 2,500 light years from home. The way back is one jump at a time, and every jump costs years on Earth. Then messages start to arrive.
 
@@ -36,7 +36,7 @@ Every picture is the game as it runs: nothing is drawn by hand.
 - **A written soundtrack.** Ten pieces and every sound effect are synthesised in the browser.
 - **Four ships** to choose from, and a hardcore mode with one life.
 
-## Where the 297 kB go
+## Where the 298 kB go
 
 Roughly, in the file as it ships:
 
