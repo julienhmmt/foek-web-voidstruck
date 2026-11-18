@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/af506332-e2ef-4373-8d2d-085b77eb8bd4
 
 ## Play
 
-**[Play Voidstruck in your browser](https://vitaminclaude.github.io/voidstruck/)**
+**[Play Voidstruck in your browser](https://voidstruck.com/)**
 
 Best in a current **Chrome** or **Edge** on a desktop computer, full screen (F11), with the sound on. It needs WebGPU, a mouse and a keyboard. Your journey is saved in the browser.
 
