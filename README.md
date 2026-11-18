@@ -1,8 +1,8 @@
 # Voidstruck
 
-**A whole galaxy in one HTML file.** A space exploration game you fly, land on and walk, in about 300 kB: no downloads, no installs, no images or sound files. Everything you see and hear is made by code as you play.
+**A whole galaxy in one HTML file.** A space exploration game you fly, land on and walk, in 297 kB: no downloads, no installs, no images or sound files. Everything you see and hear is made by code as you play.
 
-A test flight of a new jump drive goes wrong and throws you 2,520 light years from home. The way back is one jump at a time, and every jump costs years on Earth. Then messages start to arrive.
+A test flight of a new jump drive goes wrong and throws you some 2,500 light years from home. The way back is one jump at a time, and every jump costs years on Earth. Then messages start to arrive.
 
 ## Play
 
@@ -23,7 +23,7 @@ You can also download `index.html` and open it: the whole game is in that one fi
 - **A written soundtrack.** Ten pieces and every sound effect are synthesised in the browser.
 - **Four ships** to choose from, and a hardcore mode with one life.
 
-## Where the 300 kB go
+## Where the 297 kB go
 
 Roughly, in the file as it ships:
 
@@ -43,11 +43,11 @@ Sent compressed, as web servers do, the whole game is about 113 kB.
 
 The title screen lists every key. The short version: mouse to steer, `W` `S` to thrust and brake, `Shift` to boost, `C` cruise drive, `F` scan and dock, `M` galaxy map, `N` system map, `J` jump, `Q` your journey, `Esc` menu.
 
-## Free to play, all rights reserved
+## Licence
 
-Voidstruck is free to play, here in the browser or from a copy of `index.html` you download for yourself.
+Voidstruck is **free to play** and **source available**: you may play it here in the browser, download `index.html` to play offline, and read how it is made. It is not open source: you may not copy it to other sites, change it, republish it or sell it.
 
-© 2026 Vitamax. All rights reserved. The game, its code, its story and its music may not be copied to other sites, changed, republished or sold without written permission. See [LICENSE](LICENSE). To ask, write to the address below.
+The terms are the [PolyForm Strict License 1.0.0](LICENSE). © 2026 Vitamax. The Voidstruck name and logo are not licensed. To ask for anything else, write to the address below.
 
 ## Contact
 
