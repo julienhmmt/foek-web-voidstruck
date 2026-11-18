@@ -4,6 +4,8 @@
 
 A test flight of a new jump drive goes wrong and throws you some 2,500 light years from home. The way back is one jump at a time, and every jump costs years on Earth. Then messages start to arrive.
 
+![Close to a black hole](screenshots/black-hole.jpg)
+
 ## Play
 
 **[Play Voidstruck in your browser](https://vitaminclaude.github.io/voidstruck/)**
@@ -11,6 +13,17 @@ A test flight of a new jump drive goes wrong and throws you some 2,500 light yea
 Best in a current **Chrome** or **Edge** on a desktop computer, full screen (F11), with the sound on. It needs WebGPU, a mouse and a keyboard. Your journey is saved in the browser.
 
 You can also download `index.html` and open it: the whole game is in that one file, and it works offline.
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Beside Saturn and its rings](screenshots/saturn.jpg) | ![A pulsar and its beams](screenshots/pulsar.jpg) |
+| ![Refuelling at a white giant](screenshots/white-giant.jpg) | ![A living world from orbit](screenshots/from-orbit.jpg) |
+| ![Sunrise over a living world](screenshots/living-world.jpg) | ![Low over the sea at sunset](screenshots/sea-at-sunset.jpg) |
+| ![Lantern trees at night](screenshots/lantern-trees.jpg) | ![A city on Earth at dusk](screenshots/city-at-dusk.jpg) |
+
+Every picture is the game as it runs: nothing is drawn by hand.
 
 ## What is in it
 
