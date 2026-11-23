@@ -19,7 +19,7 @@ There are two versions, side by side at [voidstruck.com](https://voidstruck.com/
 | | | |
 |---|---|---|
 | **[The original](https://voidstruck.com/original/)** | v1.0 · 299 kB | The game as it launched: one HTML file, under 300 kB. It is frozen, and only changes to fix a bug or a line of text. |
-| **[The new version](https://voidstruck.com/play/)** | v1.4 · 314 kB | The same journey, still growing: improved look and updated story, no size limit. It picks up the journey you began in the original. |
+| **[The new version](https://voidstruck.com/play/)** | v1.5 · 316 kB | The same journey, still growing: improved look and updated story, no size limit. It picks up the journey you began in the original. |
 
 Each keeps its own saved journey, so playing one never changes the other.
 
