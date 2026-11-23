@@ -14,7 +14,16 @@ https://github.com/user-attachments/assets/af506332-e2ef-4373-8d2d-085b77eb8bd4
 
 Best in a current **Chrome** or **Edge** on a desktop computer, full screen (F11), with the sound on. It needs WebGPU, a mouse and a keyboard. Your journey is saved in the browser.
 
-You can also download `index.html` and open it: the whole game is in that one file, and it works offline.
+There are two versions, side by side at [voidstruck.com](https://voidstruck.com/):
+
+| | | |
+|---|---|---|
+| **[The original](https://voidstruck.com/original/)** | v1.0 · 299 kB | The game as it launched: one HTML file, under 300 kB. It is frozen, and only changes to fix a bug or a line of text. |
+| **[The new version](https://voidstruck.com/play/)** | v1.1 · 299 kB | The same journey, still growing: improved look and updated story, no size limit. It picks up the journey you began in the original. |
+
+Each keeps its own saved journey, so playing one never changes the other.
+
+You can also download [`original/index.html`](original/index.html) and open it: the whole original game is in that one file, and it works offline.
 
 ## Screenshots
 
@@ -40,7 +49,7 @@ Every picture is the game as it runs: nothing is drawn by hand.
 
 ## How it was made
 
-Voidstruck is one HTML file of 299 kB (about 114 kB compressed). It uses no game engine, no libraries and no asset files: there are no images, models or sound files to load, because there aren't any. Everything is computed while you play.
+This is about the original. Voidstruck is one HTML file of 299 kB (about 114 kB compressed). It uses no game engine, no libraries and no asset files: there are no images, models or sound files to load, because there aren't any. Everything is computed while you play.
 
 **No libraries at runtime.** The game talks to the browser directly: WebGPU for the picture, the Web Audio API for sound, plain HTML and CSS for menus and maps. The only tool in the project is esbuild, which bundles about 9,400 lines of JavaScript and WGSL shader code into the single file.
 
@@ -82,7 +91,7 @@ The title screen lists every key. The short version: mouse to steer, `W` `S` to 
 
 ## Licence
 
-Voidstruck is **free to play** and **source available**: you may play it here in the browser, download `index.html` to play offline, and read how it is made. It is not open source: you may not copy it to other sites, change it, republish it or sell it.
+Voidstruck is **free to play** and **source available**: you may play it here in the browser, download `original/index.html` to play offline, and read how it is made. It is not open source: you may not copy it to other sites, change it, republish it or sell it.
 
 The terms are the [PolyForm Strict License 1.0.0](LICENSE). © 2026 Vitamax. The Voidstruck name and logo are not licensed. To ask for anything else, write to the address below.
 
